@@ -30,8 +30,7 @@ PUBLIC_URL = os.getenv("PUBLIC_URL", "http://localhost:8080")
 
 # Admin IDs – вписаны прямо в код (дополнительно через .env)
 HARDCODED_ADMIN_IDS = {
-    123456789012345678,   # ← замени на свои Discord User ID
-    987654321098765432,   # ← можно добавить ещё
+    410432175373156352
 }
 
 # Загружаем из .env и объединяем
